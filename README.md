@@ -1,1 +1,3 @@
-# Java-Code
+The repository is divided into well-organized modules covering key topics such as Java Programming Basics, Arrays, Recursion, Backtracking, Dynamic Programming, and Graph Algorithms. Each section features a range of problems I solved using clean, modular Java code. In the Dynamic Programming section, I implemented optimized solutions for problems like the 0/1 Knapsack, Longest Common Subsequence, and Matrix Pathfinding—demonstrating my ability to write efficient code with reduced time and space complexity.
+
+In the Graph module, I explored both depth-first and breadth-first traversals, cycle detection, pathfinding, and connected components. These implementations involved adjacency lists/matrices, recursion, queues, and backtracking, showing my grasp of fundamental graph theory as well as practical applications in Java.
